@@ -5,3 +5,25 @@
     width: 100%;
     height: 400px;
 }
+
+.h-overflow-none{
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+
+.h-bg-img{
+    background:url(../images/1-151005230520.jpg) no-repeat center;
+    background-size:contain;
+}
+
+/*背景图片 鼠标hover 比例变大*/
+.h-bg-img-hover{
+    cursor: pointer;
+    transition: all 0.5s; /* 所有的属性变化在0.5s的时间段内完成 */
+}
+
+.h-bg-img-hover:hover{
+    transform: scale(1.2); /* 鼠标放到图片上的时候图片按比例放大1.5倍   */
+}

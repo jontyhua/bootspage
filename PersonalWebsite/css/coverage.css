@@ -8,9 +8,10 @@
 }
 
 .navbar{
-    height: 80px;
+    line-height: 2;
     font-size: 18px;
 }
+
 
 .navbar-brand{
     font-size: 22px;
