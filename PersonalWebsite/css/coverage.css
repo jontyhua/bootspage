@@ -1,0 +1,17 @@
+
+
+
+
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+.navbar{
+    height: 80px;
+    font-size: 18px;
+}
+
+.navbar-brand{
+    font-size: 22px;
+}
