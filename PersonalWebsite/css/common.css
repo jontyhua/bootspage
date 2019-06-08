@@ -1,10 +1,7 @@
 
 
 
-.h-slide-img{
-    width: 100%;
-    height: 400px;
-}
+
 
 .h-overflow-none{
     overflow: hidden;
@@ -26,4 +23,74 @@
 
 .h-bg-img-hover:hover{
     transform: scale(1.2); /* 鼠标放到图片上的时候图片按比例放大1.5倍   */
+}
+
+.category:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 100%;
+    height: 1px;
+    width: 45px;
+    background-color: #FF7171;
+    margin-left: 10px;
+}
+.category a {
+    font-weight: 700;
+    font-family: "Spectral", serif;
+    color: #FF7171;
+    font-size: 18px;
+}
+
+
+/*首页分类*/
+.h-section{
+    font-size: 30px;
+    background-image: linear-gradient(0deg, #ffc107 20%, transparent 0%);
+}
+
+/*首页文章*/
+.h-post{
+    width: 100%;
+    height: auto;
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+    /*轮播图*/
+    .h-carousel-img{
+        width: 300px;
+        height: 300px;
+    }
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    /*轮播图*/
+    .h-carousel-img{
+        width: 300px;
+        height: 300px;
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    /*轮播图*/
+    .h-carousel-img{
+        width: 300px;
+        height: 300px;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    /*轮播图*/
+    .h-carousel-img{
+        width: 100%;
+        height: auto;
+    }
 }
