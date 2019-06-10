@@ -13,6 +13,7 @@
 .h-bg-img{
     background:url(../images/1-151005230520.jpg) no-repeat center;
     background-size:contain;
+    overflow: hidden;
 }
 
 /*背景图片 鼠标hover 比例变大*/
@@ -23,6 +24,11 @@
 
 .h-bg-img-hover:hover{
     transform: scale(1.2); /* 鼠标放到图片上的时候图片按比例放大1.5倍   */
+}
+
+.h-bg{
+    background:url(../images/lingdan.jpg) no-repeat center;
+    overflow: hidden;
 }
 
 .category:before {
@@ -52,9 +58,15 @@
 }
 
 /*首页文章*/
+
 .h-post{
     width: 100%;
-    height: auto;
+    height: 320px;
+}
+
+.h-vertical-2{
+    width: 100%;
+    height: 640px;
 }
 
 /*Small devices (landscape phones, 576px and up)*/
