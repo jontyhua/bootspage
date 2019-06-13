@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4a776106-78cc-4f61-89b8-7e2d0eca8d19" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalWebsite/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalWebsite/css/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalWebsite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalWebsite/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PersonalWebsite/text.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="378">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -35,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PersonalWebsite/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="155" column="32" lean-forward="true" selection-start-line="155" selection-start-column="32" selection-end-line="155" selection-end-column="32" />
+            <state relative-caret-position="3696">
+              <caret line="176" column="18" selection-start-line="176" selection-start-column="18" selection-end-line="176" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -47,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PersonalWebsite/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
+            <state relative-caret-position="1281">
               <caret line="61" column="7" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="7" />
             </state>
           </provider>
@@ -56,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PersonalWebsite/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-916">
+            <state relative-caret-position="106785">
               <caret line="5085" column="1" selection-start-line="5085" selection-start-column="1" selection-end-line="5085" selection-end-column="1" />
               <folding>
                 <element signature="e#91454#91684#2" expanded="true" />
@@ -90,12 +85,12 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/PersonalWebsite/js/jquery-3.4.1.js" />
-        <option value="$PROJECT_DIR$/PersonalWebsite/text.html" />
         <option value="$PROJECT_DIR$/PersonalWebsite/css/coverage.css" />
         <option value="$PROJECT_DIR$/PersonalWebsite/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/PersonalWebsite/css/style.css" />
         <option value="$PROJECT_DIR$/PersonalWebsite/css/common.css" />
         <option value="$PROJECT_DIR$/PersonalWebsite/index.html" />
+        <option value="$PROJECT_DIR$/PersonalWebsite/text.html" />
       </list>
     </option>
   </component>
@@ -113,7 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,7 +150,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +200,8 @@
       <updated>1559711769184</updated>
       <workItem from="1559711774957" duration="781000" />
       <workItem from="1559815245869" duration="45907000" />
-      <workItem from="1560050081983" duration="2545000" />
+      <workItem from="1560050081983" duration="4135000" />
+      <workItem from="1560382724632" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1559711895018</created>
@@ -242,17 +238,24 @@
       <option name="project" value="LOCAL" />
       <updated>1560034914850</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1560128436981</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560128436981</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49233000" />
+    <option name="totallyTimeSpent" value="51423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17627347" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17828418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -289,7 +292,8 @@
     <MESSAGE value="start" />
     <MESSAGE value="构建项目" />
     <MESSAGE value="首页测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="首页测试" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
@@ -370,11 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PersonalWebsite/text.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="378">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -385,27 +386,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalWebsite/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/PersonalWebsite/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-916">
-          <caret line="5085" column="1" selection-start-line="5085" selection-start-column="1" selection-end-line="5085" selection-end-column="1" />
-          <folding>
-            <element signature="e#91454#91684#2" expanded="true" />
-          </folding>
+        <state relative-caret-position="3696">
+          <caret line="176" column="18" selection-start-line="176" selection-start-column="18" selection-end-line="176" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PersonalWebsite/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state relative-caret-position="1281">
           <caret line="61" column="7" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalWebsite/index.html">
+    <entry file="file://$PROJECT_DIR$/PersonalWebsite/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="155" column="32" lean-forward="true" selection-start-line="155" selection-start-column="32" selection-end-line="155" selection-end-column="32" />
+        <state relative-caret-position="106785">
+          <caret line="5085" column="1" selection-start-line="5085" selection-start-column="1" selection-end-line="5085" selection-end-column="1" />
+          <folding>
+            <element signature="e#91454#91684#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
